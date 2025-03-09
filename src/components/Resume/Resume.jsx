@@ -18,12 +18,12 @@ const Resume = () => {
   ];
   const internships = [
     {
-      company: "Self-employed",
+      company: "Self-Employed",
       duration: "Oct 2024 - present",
       location: "Antalya, Turkey",
       responsibilities: [
-        "Focused on developing responsive and dynamic web applications using React.js, Next.js, Angular.js, HTML, and CSS.",
-        "Focused on learning about blockchain and trend technologies."
+        "Developed responsive and dynamic web applications using React.js, Next.js, and Angular, improving load speed by 35 % and boosting user engagement by 20%.",
+        "Researched blockchain and emerging technologies, implementing smart contracts and DApps to enhance web security and performance."
       ],
     },
     {
@@ -31,9 +31,9 @@ const Resume = () => {
       duration: "May 2022 - Sep 2024",
       location: "Istanbul, Turkey",
       responsibilities: [
-        "Led multiple projects from concept to completion, ensuring timel delivery and alignment with client goals.",
-        "Engineered a comprehensive cloud backup system featuring a multi-step sign-up process and asynchronous backend services using React.js and Next.js, resulting in a 40% increase in user engagement.",
-        "Implemented both MongoDB and PostgreSQL to enhance data management efficiency, leading to a 25% improvement in data retrieval times.",
+        "Led multiple projects from concept to completion, managing cross functional teams and ensuring 100% on-time delivery, while maintaining a 95 % + client satisfaction rate.",
+        "Engineered a cloud backup system with a multi-step sign-up process and asynchronous backend services, leading to a 40% increase in user engagement.",
+        "Integrated MongoDB and PostgreSQL to optimize data management, improving data retrieval speed by 25% and enhancing system performance.",
       ],
     },
     {
@@ -41,10 +41,12 @@ const Resume = () => {
       duration: "Septemeber 2017 - April 2022",
       location: "Istanbul, Turkey",
       responsibilities: [
-        "Developed 5+ scalable web applications with React, Node.js, and MongoDB, improving system efficiency and supporting 80,000+ users.",
-        "Designed and implemented 15+ RESTful APIs with Node.js and PostgreSQL, reducing data retrieval time by 30 % and improving backend performance",
-        "Developed innovative front-end applications, focusing on delivering exceptional user experiences while meeting business objectives.",
-        "Utilized HTML, CSS, JavaScript, jQuery, React, Next.js, Angular, WordPress, and Laravel to develop dynamic and responsive web applications.",
+        "Developed and optimized 5+ scalable web applications using React, Node.js, and MongoDB, enhancing system efficiency and ensuring seamless performance for 80,000+ active users.",
+        "Designed and implemented 15+ RESTful APIs with Node.js and PostgreSQL, reducing data retrieval time by 30 % and improving backend performance.",
+        "Led multiple projects from concept to completion, managing cross functional teams and ensuring 100% on-time delivery, while maintaining a 95%+ client satisfaction rate.",
+        "Participated in regular code reviews and implemented best practices for GitFlow, increasing collaboration efficiency within the development team by 15%.",
+        "Collaborated with UX/UI designers to enhance user experience, increasing user engagement by 20%.",
+        "Built 8+ dynamic and responsive web applications with HTML, CSS, JavaScript, React, Next.js, Angular, WordPress, and Laravel, reducing maintenance costs by 40 % through efficient coding practices."
       ],
     },
   ];
