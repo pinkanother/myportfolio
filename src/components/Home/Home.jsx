@@ -26,7 +26,7 @@ const Home = () => {
         className="hero-bg"
       />
       <div className="container" data-aos="fade-up" data-aos-delay="100">
-        <h2>Said Severengiz</h2>
+        <h2>Muhammed Said Severengiz</h2>
         <p>
           I am a <span ref={typedRef} className="typed"></span>
         </p>

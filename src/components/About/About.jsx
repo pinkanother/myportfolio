@@ -37,7 +37,7 @@ const About = () => (
           </p>
           <div className="row">
             {[
-              { label: "Degree", value: "Bachelor,Computer Science" },
+              { label: "Degree", value: "Bachelor of Computer Science" },
               { label: "Email", value: "pinkanother@gmail.com" },
               { label: "Address", value: "Antalya, Turkey" },
             ].map((item, index) => (

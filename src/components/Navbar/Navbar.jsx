@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import "./Navbar.scss";
+import { SassColor } from "sass";
 
 const Navbar = () => {
   const [isHeaderVisible, setHeaderVisible] = useState(false);
@@ -76,7 +77,7 @@ const Navbar = () => {
         className="logo d-flex align-items-center justify-content-center"
         style={{ textDecoration: "none" }}
       >
-        <h1 className="sitename">Muhammeed Said Severengiz</h1>
+        <h5>Muhammed Severengiz</h5>
       </Link>
       <div className="social-links text-center">
         <a

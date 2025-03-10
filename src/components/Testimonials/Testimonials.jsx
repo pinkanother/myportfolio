@@ -11,7 +11,7 @@ SwiperCore.use([Autoplay, Pagination]);
 const testimonialsData = [
   {
     quote:
-      "Said\u2019s expertise and problem-solving skills were instrumental in our project\u2019s success. His dedication and ability to quickly adapt to new challenges made working with him a seamless experience. Highly recommended for anyone seeking a committed and skilled developer.",
+      "Muhammed\u2019s expertise and problem-solving skills were instrumental in our project\u2019s success. His dedication and ability to quickly adapt to new challenges made working with him a seamless experience. Highly recommended for anyone seeking a committed and skilled developer.",
     image: "/image/Burak Kaya.jpg",
     name: "Burak Kaya",
     position: "Frontend Developer",
@@ -19,7 +19,7 @@ const testimonialsData = [
   },
   {
     quote:
-      "Said\u2019s creativity and technical expertise significantly enhanced our project. His ability to tackle complex problems and deliver results on time was impressive. Working with him was a fantastic experience, and his contributions were invaluable.",
+      "Muhammed\u2019s creativity and technical expertise significantly enhanced our project. His ability to tackle complex problems and deliver results on time was impressive. Working with him was a fantastic experience, and his contributions were invaluable.",
     image: "/image/Can Aydin.jpg",
     name: "Can Aydin",
     position: "Full Stack Developer",
@@ -27,7 +27,7 @@ const testimonialsData = [
   },
   {
     quote:
-      "Said consistently delivered high-quality work and demonstrated exceptional technical skills throughout our collaboration. His proactive approach and attention to detail greatly contributed to the project\u2019s success. A true professional who is a pleasure to work with.",
+      "Muhammed consistently delivered high-quality work and demonstrated exceptional technical skills throughout our collaboration. His proactive approach and attention to detail greatly contributed to the project\u2019s success. A true professional who is a pleasure to work with.",
     image: "/image/Serkan Arslan.jpg",
     name: "Serkan Arslan",
     position: "Website Developer",
