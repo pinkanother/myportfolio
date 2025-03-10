@@ -59,7 +59,7 @@ const Resume = () => {
           href="/SaidCV.pdf"
           className="icon resume"
           target="_blank"
-          download="Said Severengiz"
+          download="Muhammed Said Severengiz"
           aria-label="Download Resume"
         >
           <i className="bi bi-download"></i>

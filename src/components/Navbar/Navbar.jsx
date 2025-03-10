@@ -76,7 +76,7 @@ const Navbar = () => {
         className="logo d-flex align-items-center justify-content-center"
         style={{ textDecoration: "none" }}
       >
-        <h1 className="sitename">Said Severengiz</h1>
+        <h1 className="sitename">Muhammeed Said Severengiz</h1>
       </Link>
       <div className="social-links text-center">
         <a
